@@ -1,11 +1,12 @@
 {
+  "id": "jid1-FMQRjHX7UOBBvQ@jetpack",
   "name": "firesize",
   "title": "Firesize",
   "main": "lib/main.js",
   "description": "Resizes the browser window to match customizable dimensions",
   "author": "Justin D'Arcangelo",
   "license": "MPL 2.0",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "preferences": [
     {
       "name": "sizes",
