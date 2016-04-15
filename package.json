@@ -5,7 +5,7 @@
   "description": "Resizes the browser window to match customizable dimensions",
   "author": "Justin D'Arcangelo",
   "license": "MPL 2.0",
-  "version": "0.3",
+  "version": "0.4.0",
   "preferences": [
     {
       "name": "sizes",
